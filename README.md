@@ -1,4 +1,4 @@
-# Hi, Im Sergio 👋
+# Hi, I'm Sergio 👋
 
 <!--
 **slienlaffa/slienlaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
